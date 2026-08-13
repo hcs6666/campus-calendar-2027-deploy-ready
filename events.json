@@ -31,15 +31,15 @@
     "description": "",
     "reminder": "",
     "link": "https://job.icbc.com.cn/pc/index.html#/main/home",
-    "important": "否"
+    "important": "是"
   },
   {
     "id": "event-003-2026-11-02",
     "title": "统一笔试阶段",
-    "type": "单日事项",
+    "type": "阶段",
     "category": "笔试",
     "startDate": "2026-11-02",
-    "endDate": "2026-11-02",
+    "endDate": "2026-11-03",
     "startTime": "",
     "endTime": "",
     "school": "全国",
@@ -52,57 +52,23 @@
   },
   {
     "id": "event-004-2026-12-01",
-    "title": "北京站面试",
-    "type": "单日事项",
+    "title": "面试",
+    "type": "阶段",
     "category": "面试",
     "startDate": "2026-12-01",
     "endDate": "2026-12-04",
-    "startTime": "09:30",
-    "endTime": "17:30",
+    "startTime": "",
+    "endTime": "",
     "school": "",
-    "city": "北京",
-    "location": "",
+    "city": "线下",
+    "location": "北京、深圳、武汉",
     "description": "一面、二面为相邻的两天，一面完成后当天傍晚会收到是否通过一面及二面通知",
     "reminder": "请携带身份证、学生证、简历和相关证明材料。",
     "link": "https://job.icbc.com.cn/pc/index.html#/main/home",
     "important": "是"
   },
   {
-    "id": "event-005-2026-12-01",
-    "title": "深圳站面试",
-    "type": "单日事项",
-    "category": "面试",
-    "startDate": "2026-12-01",
-    "endDate": "2026-12-04",
-    "startTime": "09:30",
-    "endTime": "17:30",
-    "school": "",
-    "city": "深圳",
-    "location": "",
-    "description": "一面、二面为相邻的两天，一面完成后当天傍晚会收到是否通过一面及二面通知",
-    "reminder": "请携带身份证、学生证、简历和相关证明材料。",
-    "link": "https://job.icbc.com.cn/pc/index.html#/main/home",
-    "important": "是"
-  },
-  {
-    "id": "event-006-2026-12-01",
-    "title": "武汉站面试",
-    "type": "单日事项",
-    "category": "面试",
-    "startDate": "2026-12-01",
-    "endDate": "2026-12-04",
-    "startTime": "09:30",
-    "endTime": "17:30",
-    "school": "",
-    "city": "武汉",
-    "location": "",
-    "description": "一面、二面为相邻的两天，一面完成后当天傍晚会收到是否通过一面及二面通知",
-    "reminder": "请携带身份证、学生证、简历和相关证明材料。",
-    "link": "https://job.icbc.com.cn/pc/index.html#/main/home",
-    "important": "是"
-  },
-  {
-    "id": "event-007-2026-12-22",
+    "id": "event-005-2026-12-22",
     "title": "体检",
     "type": "阶段",
     "category": "体检",
@@ -116,10 +82,10 @@
     "description": "",
     "reminder": "",
     "link": "",
-    "important": "否"
+    "important": "是"
   },
   {
-    "id": "event-008-2026-12-31",
+    "id": "event-006-2026-12-31",
     "title": "offer发放",
     "type": "阶段",
     "category": "offer发放",
@@ -133,10 +99,10 @@
     "description": "",
     "reminder": "",
     "link": "",
-    "important": "否"
+    "important": "是"
   },
   {
-    "id": "event-009-2027-01-05",
+    "id": "event-007-2027-01-05",
     "title": "录用签约阶段",
     "type": "阶段",
     "category": "录用签约",
@@ -153,7 +119,24 @@
     "important": "是"
   },
   {
-    "id": "event-010-2026-09-15",
+    "id": "event-008-2026-08-25",
+    "title": "互动答疑",
+    "type": "阶段",
+    "category": "其他",
+    "startDate": "2026-08-25",
+    "endDate": "2027-01-25",
+    "startTime": "",
+    "endTime": "",
+    "school": "",
+    "city": "",
+    "location": "",
+    "description": "",
+    "reminder": "",
+    "link": "",
+    "important": "否"
+  },
+  {
+    "id": "event-009-2026-09-15",
     "title": "北京大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -170,7 +153,7 @@
     "important": "是"
   },
   {
-    "id": "event-011-2026-09-18",
+    "id": "event-010-2026-09-18",
     "title": "清华大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -187,7 +170,7 @@
     "important": "是"
   },
   {
-    "id": "event-012-2026-09-19",
+    "id": "event-011-2026-09-19",
     "title": "北京航空航天大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -204,7 +187,7 @@
     "important": "是"
   },
   {
-    "id": "event-013-2026-09-20",
+    "id": "event-012-2026-09-20",
     "title": "中国人民大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -221,7 +204,7 @@
     "important": "是"
   },
   {
-    "id": "event-014-2026-09-21",
+    "id": "event-013-2026-09-21",
     "title": "中央财经大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -238,7 +221,7 @@
     "important": "是"
   },
   {
-    "id": "event-015-2026-09-22",
+    "id": "event-014-2026-09-22",
     "title": "南开大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -255,7 +238,7 @@
     "important": "是"
   },
   {
-    "id": "event-016-2026-09-23",
+    "id": "event-015-2026-09-23",
     "title": "哈尔滨工业大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -272,7 +255,7 @@
     "important": "是"
   },
   {
-    "id": "event-017-2026-09-24",
+    "id": "event-016-2026-09-24",
     "title": "东北财经大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -289,7 +272,7 @@
     "important": "是"
   },
   {
-    "id": "event-018-2026-09-25",
+    "id": "event-017-2026-09-25",
     "title": "复旦大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -306,7 +289,7 @@
     "important": "是"
   },
   {
-    "id": "event-019-2026-09-26",
+    "id": "event-018-2026-09-26",
     "title": "上海交通大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -323,7 +306,7 @@
     "important": "是"
   },
   {
-    "id": "event-020-2026-09-27",
+    "id": "event-019-2026-09-27",
     "title": "南京大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -340,7 +323,7 @@
     "important": "是"
   },
   {
-    "id": "event-021-2026-09-28",
+    "id": "event-020-2026-09-28",
     "title": "中国科学技术大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -357,7 +340,7 @@
     "important": "是"
   },
   {
-    "id": "event-022-2026-09-29",
+    "id": "event-021-2026-09-29",
     "title": "浙江大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -374,7 +357,7 @@
     "important": "是"
   },
   {
-    "id": "event-023-2026-09-30",
+    "id": "event-022-2026-09-30",
     "title": "华中科技大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -391,7 +374,7 @@
     "important": "是"
   },
   {
-    "id": "event-024-2026-10-01",
+    "id": "event-023-2026-10-01",
     "title": "华中农业大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -408,7 +391,7 @@
     "important": "是"
   },
   {
-    "id": "event-025-2026-10-02",
+    "id": "event-024-2026-10-02",
     "title": "华中师范大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -425,7 +408,7 @@
     "important": "是"
   },
   {
-    "id": "event-026-2026-10-03",
+    "id": "event-025-2026-10-03",
     "title": "中南财经政法大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -442,7 +425,7 @@
     "important": "是"
   },
   {
-    "id": "event-027-2026-10-04",
+    "id": "event-026-2026-10-04",
     "title": "湖南大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -459,7 +442,7 @@
     "important": "是"
   },
   {
-    "id": "event-028-2026-10-05",
+    "id": "event-027-2026-10-05",
     "title": "中南大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -476,13 +459,13 @@
     "important": "是"
   },
   {
-    "id": "event-029-2026-10-06",
+    "id": "event-028-2026-10-06",
     "title": "西安交通大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-06",
     "endDate": "2026-10-06",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "西安交通大学",
     "city": "西安",
@@ -493,13 +476,13 @@
     "important": "是"
   },
   {
-    "id": "event-030-2026-10-07",
+    "id": "event-029-2026-10-07",
     "title": "西北工业大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-07",
     "endDate": "2026-10-07",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "西北工业大学",
     "city": "西安",
@@ -510,13 +493,13 @@
     "important": "是"
   },
   {
-    "id": "event-031-2026-10-08",
+    "id": "event-030-2026-10-08",
     "title": "广东工业大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-08",
     "endDate": "2026-10-08",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "广东工业大学",
     "city": "广州",
@@ -527,13 +510,13 @@
     "important": "是"
   },
   {
-    "id": "event-032-2026-10-09",
+    "id": "event-031-2026-10-09",
     "title": "华南理工大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-09",
     "endDate": "2026-10-09",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "华南理工大学",
     "city": "广州",
@@ -544,13 +527,13 @@
     "important": "是"
   },
   {
-    "id": "event-033-2026-10-10",
+    "id": "event-032-2026-10-10",
     "title": "华南农业大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-10",
     "endDate": "2026-10-10",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "华南农业大学",
     "city": "广州",
@@ -561,13 +544,13 @@
     "important": "是"
   },
   {
-    "id": "event-034-2026-10-11",
+    "id": "event-033-2026-10-11",
     "title": "华南师范大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-11",
     "endDate": "2026-10-11",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "华南师范大学",
     "city": "广州",
@@ -578,13 +561,13 @@
     "important": "是"
   },
   {
-    "id": "event-035-2026-10-12",
+    "id": "event-034-2026-10-12",
     "title": "暨南大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-12",
     "endDate": "2026-10-12",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "暨南大学",
     "city": "广州",
@@ -595,13 +578,13 @@
     "important": "是"
   },
   {
-    "id": "event-036-2026-10-13",
+    "id": "event-035-2026-10-13",
     "title": "中山大学（深圳）",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-13",
     "endDate": "2026-10-13",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "中山大学（深圳）",
     "city": "深圳",
@@ -612,13 +595,13 @@
     "important": "是"
   },
   {
-    "id": "event-037-2026-10-14",
+    "id": "event-036-2026-10-14",
     "title": "中山大学（珠海）",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-14",
     "endDate": "2026-10-14",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "中山大学（珠海）",
     "city": "珠海",
@@ -629,13 +612,13 @@
     "important": "是"
   },
   {
-    "id": "event-038-2026-10-15",
+    "id": "event-037-2026-10-15",
     "title": "中山大学（广州）",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-15",
     "endDate": "2026-10-15",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "中山大学（广州）",
     "city": "广州",
@@ -646,13 +629,13 @@
     "important": "是"
   },
   {
-    "id": "event-039-2026-10-16",
+    "id": "event-038-2026-10-16",
     "title": "哈尔滨工业大学（深圳）",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-16",
     "endDate": "2026-10-16",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "哈尔滨工业大学（深圳）",
     "city": "深圳",
@@ -663,13 +646,13 @@
     "important": "是"
   },
   {
-    "id": "event-040-2026-10-17",
+    "id": "event-039-2026-10-17",
     "title": "南方科技大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-17",
     "endDate": "2026-10-17",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "南方科技大学",
     "city": "深圳",
@@ -680,13 +663,13 @@
     "important": "是"
   },
   {
-    "id": "event-041-2026-10-18",
+    "id": "event-040-2026-10-18",
     "title": "深圳大学（丽湖校区）",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-18",
     "endDate": "2026-10-18",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "深圳大学（丽湖校区）",
     "city": "深圳",
@@ -697,13 +680,13 @@
     "important": "是"
   },
   {
-    "id": "event-042-2026-10-19",
+    "id": "event-041-2026-10-19",
     "title": "深圳大学（粤海校区）",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-10-19",
     "endDate": "2026-10-19",
-    "startTime": "15:00",
+    "startTime": "1.625",
     "endTime": "16:30",
     "school": "深圳大学（粤海校区）",
     "city": "深圳",
