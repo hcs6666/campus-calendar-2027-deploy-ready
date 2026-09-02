@@ -54,6 +54,8 @@ function filtered(){let cat=$("cat").value,city=$("city").value,school=$("school
 function init(){fillSelect("city",[...new Set(EVENTS.map(e=>e.city).filter(Boolean))]);fillSelect("school",[...new Set(EVENTS.map(e=>e.school).filter(Boolean))]);["cat","city","school","kw"].forEach(id=>$(id).addEventListener("input",render));const first=EVENTS.slice().sort((a,b)=>a.startDate.localeCompare(b.startDate))[0];if(first&&first.startDate){const p=first.startDate.split("-");current=new Date(Number(p[0]),Number(p[1])-1,1)}$("errorBox").innerHTML="";render()}
 function fillSelect(id,values){const select=$(id);while(select.options.length>1)select.remove(1);values.forEach(v=>{let o=document.createElement("option");o.textContent=v;select.appendChild(o)})}
 function render(){renderStages();renderCalendar();renderImportant();renderHint()}
+function syncMobileStages(){if(window.matchMedia("(max-width:640px)").matches){renderStages()}}
+
 function renderHint(){let n=filtered().length;$("resultHint").textContent="当前筛选结果："+n+" 个事项 / 阶段。"}
 /* 阶段区展示顺序：严格按照 events.json 原始顺序，也就是 Excel 表格从上到下的录入顺序。 */
 function renderStages(){let el=$("stages");el.innerHTML="";EVENTS.filter(isStageLike).forEach(e=>{let d=document.createElement("div");d.className="stage";let timeText=e.startTime?("<br>"+e.startTime+(e.endTime?" — "+e.endTime:"")):"";let dateText=e.startDate?(fd(e.startDate)+(e.endDate&&e.endDate!==e.startDate?" — "+fd(e.endDate):"")):"时间待定";let extra=e.description||e.location||e.city||e.school||"点击查看详情";d.innerHTML='<span class="stage-tag '+catClass(e.category)+'">'+normalizeCategoryText(e.category)+'</span><b>'+e.title+'</b><span>'+dateText+timeText+"<br>"+extra+"</span>";d.onclick=()=>openModal(e);el.appendChild(d)});if(!el.innerHTML)el.innerHTML='<p style="color:#94a3b8">暂无匹配阶段</p>'}
@@ -66,6 +68,8 @@ function detailBlock(label,value){return hasValue(value)?'<div class="info"><sma
 function sectionBlock(title,value){return hasValue(value)?'<div class="modal-section"><div class="modal-section-title">'+title+'</div><div>'+value+'</div></div>':""}
 function openModal(e){$("modal").classList.add("show");$("mcat").textContent=normalizeCategoryText(e.category);$("mtitle").textContent=e.title;$("mtime").textContent=e.startDate===e.endDate?fd(e.startDate)+" "+(e.startTime||"")+(e.endTime?" — "+e.endTime:""):fd(e.startDate)+" — "+fd(e.endDate)+(e.startTime?("，"+e.startTime+(e.endTime?" — "+e.endTime:"")):"");let details=detailBlock("事项类型",isStageLike(e)?"阶段 / 时间段":e.type)+detailBlock("学校",e.school)+detailBlock("城市",e.city)+detailBlock("地点",e.location);$("minfo").innerHTML=details;$("minfo").style.display=details?"grid":"none";$("modalExtra").innerHTML=sectionBlock("说明",e.description)+sectionBlock("提醒",e.reminder);$("modalActions").style.display=hasValue(e.link)?"flex":"none";$("mlink").href=e.link||"#"}
 function closeModal(){$("modal").classList.remove("show")}
+window.addEventListener("resize",syncMobileStages);
+window.addEventListener("orientationchange",syncMobileStages);
 function move(n){current.setMonth(current.getMonth()+n);render()}
-loadEvents();
+loadEvents();document.addEventListener("DOMContentLoaded",syncMobileStages);
 </script></body></html>
