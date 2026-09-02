@@ -8,7 +8,7 @@
     "endDate": "2026-10-08",
     "startTime": "",
     "endTime": "",
-    "school": "全国高校",
+    "school": "",
     "city": "全球",
     "location": "招聘官网 / 校招投递平台",
     "description": "2027校园招聘网申通道开放，同学们可在线选择岗位并投递简历。",
@@ -25,7 +25,7 @@
     "endDate": "2026-09-30",
     "startTime": "",
     "endTime": "",
-    "school": "全国高校",
+    "school": "",
     "city": "全国",
     "location": "",
     "description": "",
@@ -34,24 +34,75 @@
     "important": "是"
   },
   {
-    "id": "event-003-2026-08-30",
-    "title": "网申开始倒计时：5天",
-    "type": "单日事项",
-    "category": "网申",
-    "startDate": "2026-08-30",
-    "endDate": "2026-08-30",
+    "id": "event-003-2026-10-20",
+    "title": "统一笔试阶段",
+    "type": "阶段",
+    "category": "笔试",
+    "startDate": "2026-10-20",
+    "endDate": "2026-11-01",
     "startTime": "",
     "endTime": "",
     "school": "",
-    "city": "线上",
-    "location": "全球任意地点",
-    "description": "快来投递鸭ovo，先投带动后投。需要去到中国工商银行人才招聘网，选择深圳市分行投递",
+    "city": "线下",
+    "location": "全国各大考试地点",
+    "description": "通过简历筛选的同学将陆续收到笔试通知,笔试参考时间段为10月下旬，具体以实际通知为准",
+    "reminder": "请提前检查短信、邮箱和招聘系统站内信。",
+    "link": "",
+    "important": "是"
+  },
+  {
+    "id": "event-004-2026-11-02",
+    "title": "面试",
+    "type": "阶段",
+    "category": "面试",
+    "startDate": "2026-11-02",
+    "endDate": "2026-11-20",
+    "startTime": "",
+    "endTime": "",
+    "school": "",
+    "city": "线下",
+    "location": "北京、深圳、武汉",
+    "description": "面试参考时间段为11月上旬，具体以实际通知为准",
+    "reminder": "请携带身份证、学生证、简历和相关证明材料。",
+    "link": "",
+    "important": "是"
+  },
+  {
+    "id": "event-005-2026-12-15",
+    "title": "体检",
+    "type": "阶段",
+    "category": "体检",
+    "startDate": "2026-12-15",
+    "endDate": "2026-12-31",
+    "startTime": "",
+    "endTime": "",
+    "school": "",
+    "city": "全国",
+    "location": "就近前往三级甲等医院，选择公务员套餐进行体检",
+    "description": "体检参考时间段为12月中下旬，具体以实际通知为准",
     "reminder": "",
     "link": "",
     "important": "是"
   },
   {
-    "id": "event-004-2026-09-01",
+    "id": "event-006-2027-01-01",
+    "title": "offer发放",
+    "type": "阶段",
+    "category": "offer发放",
+    "startDate": "2027-01-01",
+    "endDate": "2027-01-20",
+    "startTime": "",
+    "endTime": "",
+    "school": "",
+    "city": "线上",
+    "location": "",
+    "description": "offer发放参考时间段为1月上旬，具体以实际通知为准。",
+    "reminder": "",
+    "link": "",
+    "important": "是"
+  },
+  {
+    "id": "event-007-2026-09-01",
     "title": "网申开始倒计时：3天",
     "type": "单日事项",
     "category": "网申",
@@ -68,7 +119,7 @@
     "important": "是"
   },
   {
-    "id": "event-005-2026-09-02",
+    "id": "event-008-2026-09-02",
     "title": "网申开始倒计时：2天",
     "type": "单日事项",
     "category": "网申",
@@ -85,7 +136,7 @@
     "important": "是"
   },
   {
-    "id": "event-006-2026-09-03",
+    "id": "event-009-2026-09-03",
     "title": "网申开始倒计时：1天",
     "type": "单日事项",
     "category": "网申",
@@ -102,7 +153,7 @@
     "important": "是"
   },
   {
-    "id": "event-007-2026-09-04",
+    "id": "event-010-2026-09-04",
     "title": "网申正式开始",
     "type": "单日事项",
     "category": "网申",
@@ -119,24 +170,7 @@
     "important": "是"
   },
   {
-    "id": "event-008-2026-10-03",
-    "title": "网申结束倒计时：5天",
-    "type": "单日事项",
-    "category": "网申",
-    "startDate": "2026-10-03",
-    "endDate": "2026-10-03",
-    "startTime": "",
-    "endTime": "",
-    "school": "",
-    "city": "线上",
-    "location": "全球任意地点",
-    "description": "快来投递鸭ovo，先投带动后投。需要去到中国工商银行人才招聘网，选择深圳市分行投递",
-    "reminder": "",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-009-2026-10-05",
+    "id": "event-011-2026-10-05",
     "title": "网申结束倒计时：3天",
     "type": "单日事项",
     "category": "网申",
@@ -153,7 +187,7 @@
     "important": "是"
   },
   {
-    "id": "event-010-2026-10-06",
+    "id": "event-012-2026-10-06",
     "title": "网申结束倒计时：2天",
     "type": "单日事项",
     "category": "网申",
@@ -170,7 +204,7 @@
     "important": "是"
   },
   {
-    "id": "event-011-2026-10-07",
+    "id": "event-013-2026-10-07",
     "title": "网申结束倒计时：1天",
     "type": "单日事项",
     "category": "网申",
@@ -187,7 +221,7 @@
     "important": "是"
   },
   {
-    "id": "event-012-2026-10-08",
+    "id": "event-014-2026-10-08",
     "title": "网申正式结束",
     "type": "单日事项",
     "category": "网申",
@@ -198,42 +232,8 @@
     "school": "",
     "city": "线上",
     "location": "",
-    "description": "别看了，已经截止咯",
+    "description": "别看了，投递已经截止咯",
     "reminder": "投递已截止，恭喜投递简历的同学们，期待你们后续在笔试、面试中的优异表现！",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-013-2026-09-07",
-    "title": "北京邮电大学",
-    "type": "单日事项",
-    "category": "宣讲会",
-    "startDate": "2026-09-07",
-    "endDate": "2026-09-07",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "school": "北京邮电大学",
-    "city": "北京",
-    "location": "待审核",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-014-2026-09-07",
-    "title": "北京化工大学",
-    "type": "单日事项",
-    "category": "宣讲会",
-    "startDate": "2026-09-07",
-    "endDate": "2026-09-07",
-    "startTime": "",
-    "endTime": "",
-    "school": "北京化工大学",
-    "city": "北京",
-    "location": "昌平校区",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
     "important": "是"
   },
@@ -252,7 +252,7 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-016-2026-09-08",
@@ -269,7 +269,7 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-017-2026-09-09",
@@ -286,7 +286,7 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-018-2026-09-09",
@@ -303,7 +303,7 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-019-2026-09-10",
@@ -320,7 +320,7 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-020-2026-09-10",
@@ -337,27 +337,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-021-2026-09-17",
-    "title": "北京交通大学（双选会）",
-    "type": "单日事项",
-    "category": "其他",
-    "startDate": "2026-09-17",
-    "endDate": "2026-09-17",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "school": "北京交通大学（双选会）",
-    "city": "北京",
-    "location": "",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-022-2026-09-21",
+    "id": "event-021-2026-09-21",
     "title": "中央财经大学（双选会）",
     "type": "单日事项",
     "category": "其他",
@@ -371,10 +354,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-023-2026-09-22",
+    "id": "event-022-2026-09-22",
     "title": "清华大学（双选会）",
     "type": "单日事项",
     "category": "其他",
@@ -388,27 +371,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-024-2026-09-23",
-    "title": "对外经济贸易大学（双选会）",
-    "type": "单日事项",
-    "category": "其他",
-    "startDate": "2026-09-23",
-    "endDate": "2026-09-23",
-    "startTime": "",
-    "endTime": "",
-    "school": "对外经济贸易大学（双选会）",
-    "city": "北京",
-    "location": "",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-025-2026-09-15",
+    "id": "event-023-2026-09-15",
     "title": "同济大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -422,10 +388,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-026-2026-09-21",
+    "id": "event-024-2026-09-21",
     "title": "东南大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -439,10 +405,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-027-2026-09-22",
+    "id": "event-025-2026-09-22",
     "title": "南京大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -456,61 +422,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-028-2026-09-23",
-    "title": "南京航空航天大学",
-    "type": "单日事项",
-    "category": "宣讲会",
-    "startDate": "2026-09-23",
-    "endDate": "2026-09-23",
-    "startTime": "18:30",
-    "endTime": "20:30",
-    "school": "南京航空航天大学",
-    "city": "南京",
-    "location": "待审核（1-2号出结果）",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-029-2026-09-14",
-    "title": "湖南大学",
-    "type": "单日事项",
-    "category": "宣讲会",
-    "startDate": "2026-09-14",
-    "endDate": "2026-09-14",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "school": "湖南大学",
-    "city": "长沙",
-    "location": "",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-030-2026-09-15",
-    "title": "中南大学",
-    "type": "单日事项",
-    "category": "宣讲会",
-    "startDate": "2026-09-15",
-    "endDate": "2026-09-15",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "school": "中南大学",
-    "city": "长沙",
-    "location": "",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-031-2026-09-16",
+    "id": "event-026-2026-09-16",
     "title": "武汉大学（双选会）",
     "type": "单日事项",
     "category": "其他",
@@ -524,10 +439,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-032-2026-09-16",
+    "id": "event-027-2026-09-16",
     "title": "华中科技大学（双选会）",
     "type": "单日事项",
     "category": "其他",
@@ -541,10 +456,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-033-2026-09-17",
+    "id": "event-028-2026-09-17",
     "title": "中南财经政法大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -558,10 +473,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-034-2026-09-17",
+    "id": "event-029-2026-09-17",
     "title": "西安交通大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -575,10 +490,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-035-2026-09-17",
+    "id": "event-030-2026-09-17",
     "title": "西北大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -592,10 +507,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-036-2026-09-18",
+    "id": "event-031-2026-09-18",
     "title": "西北工业大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -609,10 +524,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-037-2026-09-18",
+    "id": "event-032-2026-09-18",
     "title": "长安大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -626,10 +541,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-038-2026-09-07",
+    "id": "event-033-2026-09-07",
     "title": "华南师范大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -643,10 +558,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-039-2026-09-08",
+    "id": "event-034-2026-09-08",
     "title": "广东工业大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -660,10 +575,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-040-2026-09-08",
+    "id": "event-035-2026-09-08",
     "title": "中山大学（广州）",
     "type": "单日事项",
     "category": "宣讲会",
@@ -677,27 +592,27 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-041-2026-09-09",
+    "id": "event-036-2026-09-09",
     "title": "华南理工大学",
     "type": "单日事项",
     "category": "宣讲会",
     "startDate": "2026-09-09",
     "endDate": "2026-09-09",
-    "startTime": "",
-    "endTime": "",
+    "startTime": "19:00",
+    "endTime": "21:00",
     "school": "华南理工大学",
     "city": "广州",
     "location": "B3-213",
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-042-2026-09-07",
+    "id": "event-037-2026-09-07",
     "title": "哈尔滨工业大学（深圳）",
     "type": "单日事项",
     "category": "宣讲会",
@@ -711,10 +626,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-043-2026-09-11",
+    "id": "event-038-2026-09-11",
     "title": "深圳大学（粤海校区）",
     "type": "单日事项",
     "category": "宣讲会",
@@ -728,10 +643,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-044-2026-09-10",
+    "id": "event-039-2026-09-10",
     "title": "南方科技大学",
     "type": "单日事项",
     "category": "宣讲会",
@@ -745,10 +660,10 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-045-2026-09-21",
+    "id": "event-040-2026-09-21",
     "title": "香港中文大学（深圳）",
     "type": "单日事项",
     "category": "宣讲会",
@@ -762,10 +677,27 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
-    "id": "event-046-2026-09-10",
+    "id": "event-041-2026-09-08",
+    "title": "中山大学（深圳）",
+    "type": "单日事项",
+    "category": "宣讲会",
+    "startDate": "2026-09-08",
+    "endDate": "2026-09-08",
+    "startTime": "19:00",
+    "endTime": "21:30",
+    "school": "中山大学（深圳）",
+    "city": "深圳",
+    "location": "西教4-104（U型教室，视频会议室）",
+    "description": "",
+    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
+    "link": "",
+    "important": "否"
+  },
+  {
+    "id": "event-042-2026-09-10",
     "title": "中山大学（珠海）",
     "type": "单日事项",
     "category": "宣讲会",
@@ -779,23 +711,6 @@
     "description": "",
     "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
     "link": "",
-    "important": "是"
-  },
-  {
-    "id": "event-047-2026-09-18",
-    "title": "香港大学经管学院（双选会）",
-    "type": "单日事项",
-    "category": "其他",
-    "startDate": "2026-09-18",
-    "endDate": "2026-09-18",
-    "startTime": "",
-    "endTime": "",
-    "school": "香港大学经管学院（双选会）",
-    "city": "深圳",
-    "location": "香港大学经管学院深圳校区",
-    "description": "",
-    "reminder": "宣讲会上可咨询岗位与投递问题，建议提前15分钟到场，可携带纸质简历。",
-    "link": "",
-    "important": "是"
+    "important": "否"
   }
 ]
