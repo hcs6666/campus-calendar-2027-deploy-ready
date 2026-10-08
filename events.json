@@ -65,7 +65,7 @@
     "description": "面试参考时间段为11月上旬，具体以实际通知为准",
     "reminder": "请携带身份证、学生证、简历和相关证明材料。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-005-undated",
@@ -82,7 +82,7 @@
     "description": "体检参考时间段为12月中下旬，具体以实际通知为准",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-006-undated",
@@ -99,7 +99,7 @@
     "description": "offer发放参考时间段为1月上旬，具体以实际通知为准。",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-007-2026-09-01",
@@ -116,7 +116,7 @@
     "description": "快来投递鸭ovo，先投带动后投。需要去到中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-008-2026-09-02",
@@ -133,7 +133,7 @@
     "description": "快来投递鸭ovo，先投带动后投。需要去到中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-009-2026-09-03",
@@ -150,7 +150,7 @@
     "description": "快来投递鸭ovo，先投带动后投。需要去到中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-010-2026-09-04",
@@ -167,7 +167,7 @@
     "description": "快来投递鸭ovo，先投带动后投。需要去到中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-011-2026-09-28",
@@ -286,7 +286,7 @@
     "description": "快来投递鸭ovo，先投带动后投。搜索：中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "建议尽早投递，完善手机号、邮箱、简历附件、教育经历与岗位志愿，一共可以选择两个岗位投递。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-018-2026-10-05",
@@ -303,7 +303,7 @@
     "description": "快来投递鸭ovo，先投带动后投。搜索：中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "建议尽早投递，完善手机号、邮箱、简历附件、教育经历与岗位志愿，一共可以选择两个岗位投递。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-019-2026-10-06",
@@ -320,7 +320,7 @@
     "description": "快来投递鸭ovo，先投带动后投。搜索：中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "建议尽早投递，完善手机号、邮箱、简历附件、教育经历与岗位志愿，一共可以选择两个岗位投递。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-020-2026-10-07",
