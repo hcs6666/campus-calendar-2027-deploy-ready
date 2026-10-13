@@ -34,12 +34,12 @@
     "important": "是"
   },
   {
-    "id": "event-003-undated",
+    "id": "event-003-2026-10-31",
     "title": "统一笔试阶段",
     "type": "阶段",
     "category": "笔试",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
     "startTime": "",
     "endTime": "",
     "school": "",
