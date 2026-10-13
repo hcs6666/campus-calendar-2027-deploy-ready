@@ -45,7 +45,7 @@
     "school": "",
     "city": "线下",
     "location": "全国各大考试地点",
-    "description": "通过简历筛选的同学将陆续收到笔试通知,笔试参考时间段为下周（即10月12日-10月18日），具体以实际通知为准",
+    "description": "通过简历筛选的同学将在10月12日-10月18日之间陆续收到笔试通知,笔试参考时间段为10月31号，具体以实际通知为准。",
     "reminder": "请提前检查短信、邮箱和招聘系统站内信。",
     "link": "",
     "important": "是"
@@ -62,7 +62,7 @@
     "school": "",
     "city": "线下",
     "location": "北京、深圳、武汉",
-    "description": "面试参考时间段为11月上旬，具体以实际通知为准",
+    "description": "具体以实际通知为准。",
     "reminder": "请携带身份证、学生证、简历和相关证明材料。",
     "link": "",
     "important": "否"
@@ -79,7 +79,7 @@
     "school": "",
     "city": "全国",
     "location": "就近前往三级甲等医院，选择公务员套餐进行体检",
-    "description": "体检参考时间段为12月中下旬，具体以实际通知为准",
+    "description": "具体以实际通知为准。",
     "reminder": "",
     "link": "",
     "important": "否"
@@ -96,7 +96,7 @@
     "school": "",
     "city": "线上",
     "location": "",
-    "description": "offer发放参考时间段为1月上旬，具体以实际通知为准。",
+    "description": "具体以实际通知为准。",
     "reminder": "",
     "link": "",
     "important": "否"
