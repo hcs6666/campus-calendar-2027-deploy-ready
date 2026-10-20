@@ -14,7 +14,7 @@
     "description": "投递链接：https://job.icbc.com.cn/pc/index.html#/main/home",
     "reminder": "建议尽早投递，完善手机号、邮箱、简历附件、教育经历与岗位志愿。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-002-2026-09-07",
@@ -31,7 +31,7 @@
     "description": "",
     "reminder": "",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-003-2026-10-31",
@@ -65,7 +65,7 @@
     "description": "具体以实际通知为准。",
     "reminder": "请携带身份证、学生证、简历和相关证明材料。",
     "link": "",
-    "important": "否"
+    "important": "是"
   },
   {
     "id": "event-005-undated",
@@ -82,7 +82,7 @@
     "description": "具体以实际通知为准。",
     "reminder": "",
     "link": "",
-    "important": "否"
+    "important": "是"
   },
   {
     "id": "event-006-undated",
@@ -337,7 +337,7 @@
     "description": "快来投递鸭ovo，先投带动后投。搜索：中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "建议尽早投递，完善手机号、邮箱、简历附件、教育经历与岗位志愿，一共可以选择两个岗位投递。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-021-2026-10-08",
@@ -354,7 +354,7 @@
     "description": "快来投递鸭ovo，先投带动后投。搜索：中国工商银行人才招聘网，选择深圳市分行投递",
     "reminder": "建议尽早投递，完善手机号、邮箱、简历附件、教育经历与岗位志愿，一共可以选择两个岗位投递。",
     "link": "",
-    "important": "是"
+    "important": "否"
   },
   {
     "id": "event-022-2026-10-09",
