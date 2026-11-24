@@ -51,12 +51,12 @@
     "important": "是"
   },
   {
-    "id": "event-004-undated",
+    "id": "event-004-2026-11-24",
     "title": "面试",
     "type": "阶段",
     "category": "面试",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-26",
     "startTime": "",
     "endTime": "",
     "school": "",
