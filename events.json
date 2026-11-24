@@ -1120,5 +1120,22 @@
     "reminder": "",
     "link": "",
     "important": "否"
+  },
+  {
+    "id": "event-067-2026-11-13",
+    "title": "第一批 提前批体检发放",
+    "type": "单日事项",
+    "category": "体检",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "startTime": "15:30",
+    "endTime": "17:30",
+    "school": "",
+    "city": "全国",
+    "location": "",
+    "description": "深圳站、南京站提前批体检已发放，注意留意邮箱通知。（北京站提前批面试结果请耐心等待）",
+    "reminder": "",
+    "link": "",
+    "important": "否"
   }
 ]
